@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t6uu2woadoyj39b031ypv4l6a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **uibahy/uibahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
