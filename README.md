@@ -18,7 +18,7 @@ Let's collaborate and create exceptional user experiences together!
 
 ## Fun fact ⚡
 
-``I have a special talent for responding with GIFs! 🎉 Whether it's a funny reaction, a celebratory dance, or an expressive meme, I've got a GIF for every occasion.``
+###### No facts
 
 
 ![](https://tenor.com/view/kyle-kyle-rittenhouse-rittenhouse-kyle-chad-tie-straighten-gif-23766072.gif)
