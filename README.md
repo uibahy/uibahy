@@ -11,7 +11,7 @@ I'm a frontend developer who loves crafting intuitive interfaces that bring joy 
 I'm always excited to connect with fellow developers and designers. Feel free to reach out to me through:
 
 - Email: [azzougbahy@gmail.com](mailto:azzougbahy@gmail.com)
-- LinkedIn: [bahyaz](https://www.linkedin.com/in/bahyaz)
+- LinkedIn: [uibahy]([https://www.linkedin.com/in/bahyaz](https://www.linkedin.com/in/uibahy/))
 - Portfolio: [bahy.design](https://www.bahy.design)
 
 Let's collaborate and create exceptional user experiences together!
